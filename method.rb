@@ -1,7 +1,7 @@
 def show(a)
     puts a
 end 
-show("Hello Ruby")
+show("Hello Ruby test")
 
 
 def hello
